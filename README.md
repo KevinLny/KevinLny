@@ -16,7 +16,7 @@
 
 ---
 
-### Mes Projets en vedette
+### Mes Projets
 
 #### 🏰 [Raycasting Engine - C++/SDL2](https://github.com/KevinLny/Wolfenstein-3D-engine)
 * Développement d'un moteur de rendu pseudo-3D à partir de zéro.
@@ -49,7 +49,7 @@
 
 ---
 
-### 📫 Me contacter
+### My contact
 
 * **LinkedIn**: https://www.linkedin.com/in/kevin-kuzu-insa/)
 * **Portfolio**: kevin-kuzu.fr
