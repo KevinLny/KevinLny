@@ -47,13 +47,6 @@
 | :--- | :--- |
 | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevinLny&layout=compact&theme=radical" alt="Top Langs" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevinLny&show_icons=true&theme=radical" alt="GitHub Stats" /> |
 
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevinLny&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevinLny&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
 ---
 
 ### 📫 Me contacter
