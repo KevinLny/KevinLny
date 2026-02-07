@@ -35,7 +35,7 @@
 * Jeu de labyrinthe mettant en œuvre des **structures dynamiques** et des algorithmes d'interaction.
 * *Compétences : Tests unitaires, gestion rigoureuse de la mémoire (Valgrind) et documentation Doxygen.*
 
-#### 🧗 [Saut à la Perche - Modélisation Physique](https://github.com/KevinLny/TIPE_PERCHE)
+#### [Saut à la Perche - Modélisation Physique](https://github.com/KevinLny/TIPE_PERCHE)
 * Simulation numérique de trajectoires et optimisation de matériel (TIPE).
 * Résolution d'équations différentielles par la méthode d'Euler.
 * *Compétences : Python, Mécanique du point, Analyse de données.*
