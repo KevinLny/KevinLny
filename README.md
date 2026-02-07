@@ -1,12 +1,12 @@
 # Salut ! 👋 
 
-### 🚀 Futur Ingénieur | Passionné par la Physique Numérique & le Bas Niveau
+### Futur Ingénieur | Passionné par la Physique Numérique & le Bas Niveau
 
-Étudiant en Électronique et Informatique Industrielle (EII) à l'INSA Rennes, je m'intéresse particulièrement pour l'architecture des systèmes complexes, à la frontière du matériel (Hardware) et du logiciel (Software). Mon parcours est porté par une double approche : la modélisation physique de phénomènes réels et leur traduction en solutions numériques optimisées, de la simulation mécanique à la conception de moteurs de rendu temps réel.
+Étudiant en Électronique et Informatique Industrielle (EII) à l'INSA Rennes, je m'intéresse particulièrement pour l'architecture des systèmes complexes, à la frontière du matériel (Hardware) et du logiciel (Software) !
 
 ---
 
-### 🛠️ Langages et Outils
+### Langages et Outils
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -16,7 +16,7 @@
 
 ---
 
-### 🔭 Mes Projets en vedette
+### Mes Projets en vedette
 
 #### 🏰 [Raycasting Engine - C++/SDL2](https://github.com/KevinLny/Wolfenstein-3D-engine)
 * Développement d'un moteur de rendu pseudo-3D à partir de zéro.
@@ -42,9 +42,11 @@
 
 ### 📊 Statistiques GitHub
 
-| **Mes Langages les plus utilisés** | **Mes Statistiques de Code** |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLy&layout=compact&theme=vision-glow" alt="Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=KevinLny&show_icons=true&theme=vision-glow" alt="GitHub Stats" /> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinLny&show_icons=true&theme=vision-glow" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLny&layout=compact&theme=vision-glow" alt="Top Langs" />
+</p>
 
 ---
 
