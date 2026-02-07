@@ -54,7 +54,7 @@
 ### My contact
 
 * **LinkedIn**: https://www.linkedin.com/in/kevin-kuzu-insa/)
-* **Portfolio**: kevin-kuzu.fr
+* **Portfolio**: https://www.kevin-kuzu.fr
 * **Localisation**: France 🇫🇷
 ---
 *Dernière mise à jour du profil : Février 2026*
