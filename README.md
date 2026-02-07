@@ -18,12 +18,12 @@
 
 ### 🔭 Mes Projets en vedette
 
-#### 🏰 [Raycasting Engine - C++/SDL2](URL_VERS_TON_REPO_WOLF)
+#### 🏰 [Raycasting Engine - C++/SDL2](https://github.com/KevinLny/Wolfenstein-3D-engine)
 * Développement d'un moteur de rendu pseudo-3D à partir de zéro.
 * Implémentation de l'algorithme DDA et gestion de caméra à 360°.
 * *Compétences : Algorithmique, C++, Gestion mémoire.*
 
-#### 🛰️ [VHDL Ring Network](URL_VERS_TON_REPO_VHDL)
+#### 🛰️ [VHDL Ring Network](https://github.com/KevinLny/VHDL-Ring-Network-Design)
 * Conception d'un réseau de communication synchrone structuré en anneau.
 * Adressage statique, priorités de flux et protocole d'auto-test.
 * *Compétences : Architecture numérique, VHDL, Simulation ModelSim.*
@@ -33,7 +33,7 @@
 * Jeu de labyrinthe mettant en œuvre des **structures dynamiques** et des algorithmes d'interaction.
 * *Compétences : Tests unitaires, gestion rigoureuse de la mémoire (Valgrind) et documentation Doxygen.*
 
-#### 🧗 [Saut à la Perche - Modélisation Physique](URL_VERS_TON_REPO_TIPE)
+#### 🧗 [Saut à la Perche - Modélisation Physique](https://github.com/KevinLny/TIPE_PERCHE)
 * Simulation numérique de trajectoires et optimisation de matériel (TIPE).
 * Résolution d'équations différentielles par la méthode d'Euler.
 * *Compétences : Python, Mécanique du point, Analyse de données.*
