@@ -28,7 +28,7 @@
 * Adressage statique, priorités de flux et protocole d'auto-test.
 * *Compétences : Architecture numérique, VHDL, Simulation ModelSim.*
 
-#### 🧩 [Project-c-Labyrinthe](https://github.com/KevinLny/Project-c-Labyrinthe) (C)
+#### 🧩 [Project-c-Labyrinthe](https://github.com/KevinLny/Project-c-Labyrinthe)
 * Coder le jeu de société le Labyrinthe en C !
 * Jeu de labyrinthe mettant en œuvre des **structures dynamiques** et des algorithmes d'interaction.
 * *Compétences : Tests unitaires, gestion rigoureuse de la mémoire (Valgrind) et documentation Doxygen.*
