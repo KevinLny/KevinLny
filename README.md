@@ -2,8 +2,6 @@
 
 ### Futur Ingénieur | Passionné par la Physique Numérique & le Bas Niveau
 
-Étudiant en Électronique et Informatique Industrielle (EII) à l'INSA Rennes, je m'intéresse particulièrement pour l'architecture des systèmes complexes, à la frontière du matériel (Hardware) et du logiciel (Software) !
-
 ---
 
 ### Langages et Outils
