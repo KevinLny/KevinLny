@@ -1,6 +1,6 @@
 # Salut ! 👋 
 
-### Futur Ingénieur | Passionné par la Physique Numérique & le Bas Niveau
+### Futur Ingénieur
 
 ---
 
