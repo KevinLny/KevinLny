@@ -22,7 +22,7 @@
 * Handled real-world environmental noise and signal reflections, validating performance via a competitive Kaggle leaderboard.
 * *Skills: Deep Learning, Computer Vision, Signal Processing, Python, TensorFlow/PyTorch.*
 
-#### ✈️ [Boeing 747-200 Autopilot Design & Flight Simulation](https://github.com/KevinLny/B747-Autopilot-Flight-Simulation)
+#### ✈️ [Boeing 747-200 Autopilot Design & Flight Simulation](https://github.com/KevinLny/Boeing747-200-Autopilot-Simulation)
 * Designed a cascaded PID flight control system (Altitude Hold & Heading Change) based on linearized state-space aircraft dynamics.
 * Implemented a real-time Cyber-Physical System (CPS) co-simulation interface via a 30Hz UDP networking loop with FlightGear.
 * *Skills: Control Theory (PID), State-Space Modeling, MATLAB/Simulink, Flight Mechanics.*
