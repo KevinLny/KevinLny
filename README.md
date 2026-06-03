@@ -1,10 +1,10 @@
-# Salut ! 👋 
+# Hi there! 👋 
 
-### Futur Ingénieur
+### Future Engineer
 
 ---
 
-### Langages et Outils
+### Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -16,43 +16,42 @@
 
 ---
 
-### Mes Projets
+### My Projects
 
 #### 🏰 [Raycasting Engine - C++/SDL2](https://github.com/KevinLny/Wolfenstein-3D-engine)
-* Développement d'un moteur de rendu pseudo-3D à partir de zéro.
-* Implémentation de l'algorithme DDA et gestion de caméra à 360°.
-* *Compétences : Algorithmique, C++, Gestion mémoire.*
+* Developed a pseudo-3D rendering engine from scratch.
+* Implemented the DDA (Digital Differential Analysis) algorithm and 360° camera management.
+* *Skills: Algorithms, C++, Memory Management.*
 
 #### 🛰️ [VHDL Ring Network](https://github.com/KevinLny/VHDL-Ring-Network-Design)
-* Conception d'un réseau de communication synchrone structuré en anneau.
-* Adressage statique, priorités de flux et protocole d'auto-test.
-* *Compétences : Architecture numérique, VHDL, Simulation ModelSim.*
+* Designed a synchronous ring-structured communication network.
+* Implemented static addressing, traffic prioritization, and self-test protocols.
+* *Skills: Digital Architecture, VHDL, ModelSim Simulation.*
 
 #### 🧩 [Project-c-Labyrinthe](https://github.com/KevinLny/Project-c-Labyrinthe)
-* Coder le jeu de société le Labyrinthe en C !
-* Jeu de labyrinthe mettant en œuvre des **structures dynamiques** et des algorithmes d'interaction.
-* *Compétences : Tests unitaires, gestion rigoureuse de la mémoire (Valgrind) et documentation Doxygen.*
+* Programmed the "Labyrinth" board game in C.
+* Developed a maze game leveraging **dynamic data structures** and interaction algorithms.
+* *Skills: Unit Testing, rigorous memory management (Valgrind), and Doxygen documentation.*
 
-#### [Saut à la Perche - Modélisation Physique](https://github.com/KevinLny/TIPE_PERCHE)
-* Simulation numérique de trajectoires et optimisation de matériel (TIPE).
-* Résolution d'équations différentielles par la méthode d'Euler.
-* *Compétences : Python, Mécanique du point, Analyse de données.*
+#### [Pole Vault - Physics Modeling](https://github.com/KevinLny/TIPE_PERCHE)
+* Numerical simulation of trajectories and equipment optimization (TIPE research project).
+* Solved differential equations using Euler's method.
+* *Skills: Python, Classical Mechanics, Data Analysis.*
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 
-
-| **Mes Langages les plus utilisés** | **Mes Statistiques de Code** |
+| **My Most Used Languages** | **My Code Stats** |
 | :--- | :--- |
 | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevinLny&layout=compact&theme=radical" alt="Top Langs" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevinLny&show_icons=true&theme=radical" alt="GitHub Stats" /> |
 
 ---
 
-### My contact
+### Contact Me
 
-* **LinkedIn**: https://www.linkedin.com/in/kevin-kuzu-insa/)
+* **LinkedIn**: https://www.linkedin.com/in/kevin-kuzu-insa/
 * **Portfolio**: https://www.kevin-kuzu.fr
-* **Localisation**: France 🇫🇷
+* **Location**: France 🇫🇷
 ---
-*Dernière mise à jour du profil : Février 2026*
+*Profile last updated: February 2026*
